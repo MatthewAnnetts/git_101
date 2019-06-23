@@ -6,15 +6,12 @@ body {
 }
 
 img	{
-	height: 200;
-	width: 150;
-=======
-	background-color: rgb(220, 220, 220);
-}
-
-img	{
 	text-align: center;
 	height: 200px;
 	width: 150px;
 >>>>>>> center-elements
+}
+
+h1 {
+	font-weight: lighter;
 }
